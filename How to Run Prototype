@@ -19,7 +19,7 @@ pip install pynacl
 
 pip install cryptography 
 
-point where you have file folder, python run_demo.py
+point where you have file folder, python run_demo.py OR Run_stress.py
 
 ##  2.1 Create a Virtual Environment (recommended)
 
